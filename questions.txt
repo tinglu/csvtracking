@@ -1,0 +1,5 @@
+- why csv in s3? - not maintainable
+- python lambda has running time limit and memory limit
+- How many files expected?
+- Calculate from beginning is wasting time if the calculation is frequently excited.
+        Could have logged the outcome and then accrue to incoming files.
