@@ -1,3 +1,5 @@
+# python code that analyses csv files from an OS directory
+
 import glob
 import os
 

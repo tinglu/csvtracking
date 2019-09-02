@@ -1,4 +1,4 @@
-# my normal lambda code without canary event
+# my lambda code for canary event
 
 from datetime import datetime
 
